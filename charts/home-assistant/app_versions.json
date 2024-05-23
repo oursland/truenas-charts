@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/home-assistant/2.0.24",
-        "last_update": "2024-05-23 11:20:23",
+        "location": "/__w/truenas-charts/truenas-charts/charts/home-assistant/2.0.24",
+        "last_update": "2024-05-18 04:18:42",
         "required_features": [
-            "normalize/acl",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "2024.5.4_2.0.24",
@@ -2055,8 +2055,8 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/home-assistant/1.0.130",
-        "last_update": "2024-05-23 11:20:23",
+        "location": "/__w/truenas-charts/truenas-charts/charts/home-assistant/1.0.130",
+        "last_update": "2024-01-19 12:10:17",
         "required_features": [
             "definitions/timezone",
             "normalize/ixVolume"

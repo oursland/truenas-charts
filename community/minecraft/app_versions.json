@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/minecraft/1.2.12",
+        "location": "/__w/truenas-charts/truenas-charts/community/minecraft/1.2.12",
         "last_update": "2024-05-23 11:21:49",
         "required_features": [
-            "normalize/acl",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "2024.5.0_1.2.12",

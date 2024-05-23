@@ -3,7 +3,7 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/zerotier/1.0.21",
+        "location": "/__w/truenas-charts/truenas-charts/community/zerotier/1.0.21",
         "last_update": "2024-05-23 11:21:49",
         "required_features": [],
         "human_version": "1.14.0_1.0.21",

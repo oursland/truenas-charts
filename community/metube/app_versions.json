@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/metube/1.2.15",
+        "location": "/__w/truenas-charts/truenas-charts/community/metube/1.2.15",
         "last_update": "2024-05-23 11:21:49",
         "required_features": [
-            "normalize/acl",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "2024-05-22_1.2.15",
         "version": "1.2.15",

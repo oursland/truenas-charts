@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/unifi-protect-backup/1.2.8",
-        "last_update": "2024-05-23 11:20:23",
+        "location": "/__w/truenas-charts/truenas-charts/community/unifi-protect-backup/1.2.8",
+        "last_update": "2024-04-15 09:34:41",
         "required_features": [
-            "normalize/acl",
             "definitions/timezone",
+            "normalize/acl",
             "normalize/ixVolume"
         ],
         "human_version": "0.10.7_1.2.8",

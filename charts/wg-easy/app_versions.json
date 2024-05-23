@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/wg-easy/2.0.18",
-        "last_update": "2024-05-23 11:20:23",
+        "location": "/__w/truenas-charts/truenas-charts/charts/wg-easy/2.0.18",
+        "last_update": "2024-05-14 08:41:11",
         "required_features": [
-            "normalize/acl",
             "definitions/nodeIP",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "13_2.0.18",
         "version": "2.0.18",
@@ -1175,12 +1175,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/wg-easy/1.0.12",
-        "last_update": "2024-05-23 11:20:23",
+        "location": "/__w/truenas-charts/truenas-charts/charts/wg-easy/1.0.12",
+        "last_update": "2023-10-19 04:50:58",
         "required_features": [
-            "validations/lockedHostPath",
             "definitions/nodeIP",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "validations/lockedHostPath"
         ],
         "human_version": "7_1.0.12",
         "version": "1.0.12",
