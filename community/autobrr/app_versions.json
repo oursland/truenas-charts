@@ -3,12 +3,12 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/autobrr/1.2.18",
+        "location": "/__w/truenas-charts/truenas-charts/community/autobrr/1.2.18",
         "last_update": "2024-09-13 11:12:58",
         "required_features": [
-            "definitions/timezone",
+            "normalize/ixVolume",
             "normalize/acl",
-            "normalize/ixVolume"
+            "definitions/timezone"
         ],
         "human_version": "1.46.1_1.2.18",
         "version": "1.2.18",

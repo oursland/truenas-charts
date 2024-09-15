@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/plex/2.0.13",
+        "location": "/__w/truenas-charts/truenas-charts/charts/plex/2.0.13",
         "last_update": "2024-09-13 11:12:58",
         "required_features": [
-            "definitions/timezone",
-            "normalize/acl",
+            "definitions/gpuConfiguration",
             "normalize/ixVolume",
-            "definitions/gpuConfiguration"
+            "normalize/acl",
+            "definitions/timezone"
         ],
         "human_version": "1.41.0.8992_2.0.13",
         "version": "2.0.13",
@@ -2226,13 +2226,13 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/plex/1.7.60",
-        "last_update": "2024-09-13 11:11:34",
+        "location": "/__w/truenas-charts/truenas-charts/charts/plex/1.7.60",
+        "last_update": "2024-01-26 08:07:26",
         "required_features": [
-            "definitions/timezone",
             "definitions/gpuConfiguration",
             "normalize/ixVolume",
-            "validations/lockedHostPath"
+            "validations/lockedHostPath",
+            "definitions/timezone"
         ],
         "human_version": "1.32.8.7639_1.7.60",
         "version": "1.7.60",

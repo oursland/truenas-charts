@@ -3,11 +3,11 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/community/planka/1.2.33",
-        "last_update": "2024-09-13 11:11:34",
+        "location": "/__w/truenas-charts/truenas-charts/community/planka/1.2.33",
+        "last_update": "2024-08-15 07:49:21",
         "required_features": [
-            "normalize/acl",
-            "normalize/ixVolume"
+            "normalize/ixVolume",
+            "normalize/acl"
         ],
         "human_version": "1.21.1_1.2.33",
         "version": "1.2.33",

@@ -3,13 +3,13 @@
         "healthy": true,
         "supported": false,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/collabora/2.0.24",
+        "location": "/__w/truenas-charts/truenas-charts/charts/collabora/2.0.24",
         "last_update": "2024-09-13 11:12:58",
         "required_features": [
-            "definitions/certificate",
-            "definitions/timezone",
             "normalize/acl",
+            "definitions/certificate",
             "normalize/ixVolume",
+            "definitions/timezone",
             "definitions/nodeIP"
         ],
         "human_version": "24.04.7.2.1_2.0.24",
@@ -873,12 +873,12 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/__w/charts/charts/charts/collabora/1.2.30",
-        "last_update": "2024-09-13 11:11:34",
+        "location": "/__w/truenas-charts/truenas-charts/charts/collabora/1.2.30",
+        "last_update": "2024-02-07 12:33:54",
         "required_features": [
+            "definitions/nodeIP",
             "definitions/timezone",
-            "definitions/certificate",
-            "definitions/nodeIP"
+            "definitions/certificate"
         ],
         "human_version": "23.05.8.2.1_1.2.30",
         "version": "1.2.30",
